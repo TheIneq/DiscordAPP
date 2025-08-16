@@ -19,7 +19,7 @@ The APP token is securely loaded from a `.env` file using the [dotenv-java](http
 **1. Clone the repository:**
 
 ```
-git clone https://github.com/TheIneq/DiscordAPP.git
+git clone https://github.com/TheIneq/DiscordAPPTemplate.git
 ```
 
 **2. Insert your bot token into the `.env` file:**
